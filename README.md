@@ -34,17 +34,13 @@ Google Data Analytics | AWS Machine Learning | AWS Data Engineering | AWS NLP | 
 
 ## 💼 Experience  
 
-- **Data Science Intern @ Lucid Care (Blackstone LaunchPad Program)** _(2025)_  
-  Built mood flag detection algorithms (valence flips, cyclical patterns) across **10K+ wearable + biomarker data points**:contentReference[oaicite:5]{index=5}  
+- **Data Science Intern @ Lucid Care (Blackstone LaunchPad Program)** _(2025)_
 
 - **AI Prompt Engineer Intern @ DailyHuman** _(2024)_  
-  Developed an internal **RAG tool** with Python + LangChain, integrating OpenAI to cut document review time by **40%**:contentReference[oaicite:6]{index=6}  
 
 - **Data Science Fellow @ CUNY Tech Prep** _(2023–2024)_  
-  Built a **malicious URL detector** and **Hiker AI** trail recommender using Flask + Google APIs:contentReference[oaicite:7]{index=7}  
 
 - **ML/AI Intern @ Cornell Tech (Breaking Through Tech)** _(2023–2024)_  
-  Trained a CNN to classify plants (93% accuracy) and developed a fraud detection model on **250K+ transactions**:contentReference[oaicite:8]{index=8}  
 
 ---
 
