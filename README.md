@@ -28,7 +28,7 @@ Python | R | SQL | PySpark | TypeScript | Pandas | NumPy | Scikit-learn | Matplo
 BigQuery | Snowflake | dbt | PostgreSQL | MongoDB | Tableau | Azure | Google Cloud | GitHub  
 
 **Certifications:**  
-Google Data Analytics | AWS Machine Learning | AWS Data Engineering | AWS NLP | Cornell ML Foundations:contentReference[oaicite:4]{index=4}
+Google Data Analytics | AWS Machine Learning | AWS Data Engineering | AWS NLP | Cornell ML Foundations
 
 ---
 
