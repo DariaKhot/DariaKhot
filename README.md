@@ -11,11 +11,11 @@
 ---
 
 ## 🚀 About Me  
-- 🎓 Pursuing **M.S. in Computer Science (Machine Learning track)** at Georgia Tech:contentReference[oaicite:0]{index=0}  
-- 🎓 **BBA in CIS - Data Analytics** at Baruch College, GPA: 3.86, Zicklin Honors & Dean’s List:contentReference[oaicite:1]{index=1}  
+- 🎓 Pursuing **M.S. in Computer Science (Machine Learning track)** at Georgia Tech
+- 🎓 **BBA in CIS - Data Analytics** at Baruch College, GPA: 3.86, Zicklin Honors & Dean’s List
 - 🔭 Experienced with **machine learning, cloud data pipelines, and data visualization**  
-- 🧑‍🏫 Led **AIS Data Science workshops** (2022–2024) on ML, cleaning, and visualization:contentReference[oaicite:2]{index=2}  
-- 🌐 Mentor/Advisor with **Girls Who Code**, guiding 200+ students in data science, web dev, and cybersecurity:contentReference[oaicite:3]{index=3}  
+- 🧑‍🏫 Led **AIS Data Science workshops** (2022–2024) on ML, cleaning, and visualization
+- 🌐 Mentor/Advisor with **Girls Who Code**, guiding 200+ students in data science, web dev, and cybersecurity
 
 ---
 
@@ -41,16 +41,6 @@ Google Data Analytics | AWS Machine Learning | AWS Data Engineering | AWS NLP | 
 - **Data Science Fellow @ CUNY Tech Prep** _(2023–2024)_  
 
 - **ML/AI Intern @ Cornell Tech (Breaking Through Tech)** _(2023–2024)_  
-
----
-
-## 📂 Highlight Projects  
-
-- **OTC Market Data Warehouse** – BigQuery + dbt + Snowflake pipelines for profitability & reporting:contentReference[oaicite:9]{index=9}  
-- **Network Intrusion Detection** – PySpark pipeline on 20GB data, trained logistic regression w/ ROC AUC:contentReference[oaicite:10]{index=10}  
-- **Stroke Prediction** – Random Forest in R, 98% accuracy, handled class imbalance w/ upsampling:contentReference[oaicite:11]{index=11}  
-- **Credit Card Fraud Detection** – Logistic Regression & Random Forest, improved accuracy via SMOTE:contentReference[oaicite:12]{index=12}  
-- **Hiker AI** – Personalized trail recommender integrated with Google Maps API:contentReference[oaicite:13]{index=13}  
 
 ---
 
